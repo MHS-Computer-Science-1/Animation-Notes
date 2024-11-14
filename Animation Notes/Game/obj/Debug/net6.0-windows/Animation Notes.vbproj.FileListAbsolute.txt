@@ -1,0 +1,35 @@
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\bin\Debug\net6.0-windows\Animation Notes.exe
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\bin\Debug\net6.0-windows\Animation Notes.deps.json
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\bin\Debug\net6.0-windows\Animation Notes.runtimeconfig.json
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\bin\Debug\net6.0-windows\Animation Notes.dll
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\bin\Debug\net6.0-windows\Animation Notes.pdb
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.vbproj.AssemblyReference.cache
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\Game.Form1.resources
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\Game.Resources.resources
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.dll
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\refint\Animation Notes.dll
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.pdb
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.genruntimeconfig.cache
+G:\My Drive\Courses\CS1\11 Final Project\Animation Notes\Game\obj\Debug\net6.0-windows\ref\Animation Notes.dll
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\obj\Debug\net6.0-windows\Game.Form1.resources
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\obj\Debug\net6.0-windows\Game.Resources.resources
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.vbproj.GenerateResource.cache
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.AssemblyInfoInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.AssemblyInfo.vb
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.dll
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\obj\Debug\net6.0-windows\refint\Animation Notes.dll
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\bin\Debug\net6.0-windows\Animation Notes.exe
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\bin\Debug\net6.0-windows\Animation Notes.deps.json
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\bin\Debug\net6.0-windows\Animation Notes.runtimeconfig.json
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\bin\Debug\net6.0-windows\Animation Notes.dll
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\bin\Debug\net6.0-windows\Animation Notes.pdb
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\obj\Debug\net6.0-windows\Animation Notes.genruntimeconfig.cache
+C:\Users\foxrw\My Drive\Courses\CS1\11 Final Project\Notes\Animation Notes\Game\obj\Debug\net6.0-windows\ref\Animation Notes.dll
