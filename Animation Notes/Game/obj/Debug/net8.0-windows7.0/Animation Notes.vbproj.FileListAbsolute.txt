@@ -1,0 +1,18 @@
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\bin\Debug\net8.0-windows7.0\Animation Notes.exe
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\bin\Debug\net8.0-windows7.0\Animation Notes.deps.json
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\bin\Debug\net8.0-windows7.0\Animation Notes.runtimeconfig.json
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\bin\Debug\net8.0-windows7.0\Animation Notes.dll
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\bin\Debug\net8.0-windows7.0\Animation Notes.pdb
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\Game.Form1.resources
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\Game.Resources.resources
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\Animation Notes.vbproj.GenerateResource.cache
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\Animation Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\Animation Notes.AssemblyInfoInputs.cache
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\Animation Notes.AssemblyInfo.vb
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\Animation Notes.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\Animation Notes.sourcelink.json
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\Animation Notes.dll
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\refint\Animation Notes.dll
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\Animation Notes.pdb
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\Animation Notes.genruntimeconfig.cache
+C:\Users\foxrw\Source\Repos\Animation-Notes\Animation Notes\Game\obj\Debug\net8.0-windows7.0\ref\Animation Notes.dll
